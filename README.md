@@ -11,8 +11,7 @@ My research focus lies at the intersection of Biomedical Science, Computational 
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="![12- 28-23-HEADSHOT BMSC UCR SCHOOL OF MEDICINE BIOMEDICAL SCIENCES MS 001001001](
-https://github.com/Jmpaulmedschucr036/Jmpaulmedschucr036/assets/155435479/aa2ec1bd-cbea-4249-8eec-5bb3b5017894)" alt="Profile Image" width="110" height="150"/>
+  <img src=""C:\Users\Joseph Paul\Pictures\JOSEPH M PAUL PICS OF SELF POSS IMPRESSIVE\12- 28-23-HEADSHOT BMSC UCR SCHOOL OF MEDICINE BIOMEDICAL SCIENCES MS 001001001.PNG"" alt="Profile Image" width="150" height="150"/>
 </p>
 
 
