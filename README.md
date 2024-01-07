@@ -1,4 +1,4 @@
-### Hi there, I am a Graduate Student at the University of California Riverside School of Medicine in Biomedical Sciences. I have a BS in Biology (Cell and Molecular) with an honors physics track and MS in progress in Biomedical Sciences.
+### Hi there, I am a Graduate Student at the University of California Riverside School of Medicine in Biomedical Sciences. I have a BS in Biology (Cell and Molecular) with an honors physics track and currently MS thesis in Biomedical Sciences focusing on computational biology, structural biology, bioinformatics.
 
   <small>
 Master's thesis dissertation in Bioinformatics and Computational Biology as a dedicated member of the Godzik Group.
