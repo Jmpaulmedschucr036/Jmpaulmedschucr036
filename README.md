@@ -1,7 +1,7 @@
 # Hi there 👋
 ![compressed_profile_image](https://github.com/Jmpaulmedschucr036/Jmpaulmedschucr036/assets/155435479/eba47d49-f944-4d11-8459-5ad3c92f971b)
 
-###I am a Graduate Student at the **University of California Riverside School of Medicine in Biomedical Sciences**. I have a BS in Biology (Cell and Molecular) with an honors physics track and currently pursuing an MS thesis in Biomedical Sciences focusing on computational biology, structural biology, bioinformatics.
+I am a Graduate Student at the **University of California Riverside School of Medicine in Biomedical Sciences**. I have a BS in Biology (Cell and Molecular) with an honors physics track and currently pursuing an MS thesis in Biomedical Sciences focusing on computational biology, structural biology, bioinformatics.
 
 
 <small>
