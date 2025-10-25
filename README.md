@@ -1,13 +1,14 @@
 # Hi there 👋
 
 
-I am a Graduate Student at the **University of California Riverside School of Medicine in Biomedical Sciences**. I have a BS in Biology (Cell and Molecular) with an honors physics track and currently pursuing an MS thesis in Biomedical Sciences focusing on computational biology, structural biology, bioinformatics.
+# Interdisciplinary Scientist | Computational Biology | Bioinformatics | Quantitative Biomedicine & Biophysics | University of California, Riverside, School of Medicine 
+
+* ### MS in Biomedical Sciences (Computational biology and Bioinformatics track) From the University of California Riverside School of Medicine
+* ### BS in Molecular and Cellular biology (Honors Physics and Mathematics track) from the University of California Riverside
+* ### -PhD incoming 
 
 
-<small>
-Master's thesis dissertation in Bioinformatics and Computational Biology as a dedicated member of the Godzik Group.
-My research focus lies at the intersection of Biomedical Science, Computational Biology, Physics, and Bioinformatics. Utilizing state-of-the-art computational techniques such as machine learning, 3D modeling, and innovative programmatic methods for quantitative analysis.
-</small>
+* ### My overaching research objective is to synthesize advanced computational biology/bioiformatics tool and  Apply the quantitative rigor of physics and mathematics To biological and biomedical problem sets in order to develop transformative interventions for patients facing life-threatening diseases.
 
 
 
