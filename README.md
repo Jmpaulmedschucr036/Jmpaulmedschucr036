@@ -1,12 +1,12 @@
-#   Joseph M. Paul
-* ### Interdisciplinary Scientist | Computational Biology | Bioinformatics | Quantitative Biomedicine & Biophysics | University of California, Riverside, School of Medicine 
 
-* ### MS in Biomedical Sciences (Computational biology and Bioinformatics track) From the University of California Riverside School of Medicine
-* ### BS in Molecular and Cellular biology (Honors Physics and Mathematics track) from the University of California Riverside
-* ### -PhD incoming 
+**Interdisciplinary Scientist** — *Computational Biology · Bioinformatics · Quantitative Biomedicine & Biophysics*  
+**UC Riverside, School of Medicine**
 
+- **M.S. Biomedical Sciences** (Computational Biology & Bioinformatics), UCR School of Medicine — **Mar 2025**  
+- **B.S. Molecular & Cellular Biology** (Honors Physics & Mathematics track), UC Riverside — **Jun 2023**  
+- **Ph.D. incoming** (Computational Biology · Biophysics · QM-informed methods)
 
-* ### My overaching research objective is to synthesize advanced computational biology/bioiformatics tool and  Apply the quantitative rigor of physics and mathematics To biological and biomedical problem sets in order to develop transformative interventions for patients facing life-threatening diseases.
+**Objective.** Synthesize advanced computational biology/bioinformatics with the quantitative rigor of physics and mathematics to model disease, extract mechanism, and translate findings into **transformative interventions** for life-threatening conditions.
 
 
 
