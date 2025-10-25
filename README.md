@@ -1,7 +1,5 @@
-# Hi there 👋
-
-
-# Interdisciplinary Scientist | Computational Biology | Bioinformatics | Quantitative Biomedicine & Biophysics | University of California, Riverside, School of Medicine 
+#   Joseph M. Paul
+* ### Interdisciplinary Scientist | Computational Biology | Bioinformatics | Quantitative Biomedicine & Biophysics | University of California, Riverside, School of Medicine 
 
 * ### MS in Biomedical Sciences (Computational biology and Bioinformatics track) From the University of California Riverside School of Medicine
 * ### BS in Molecular and Cellular biology (Honors Physics and Mathematics track) from the University of California Riverside
